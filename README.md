@@ -34,9 +34,6 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 - **Custom Query**
 - **TGMPA Activation**
 - **Elementor Widget Development**
-
-### PLUGIN DEVELOPMENT SKILL:
-
 - **Custom Post Type**
 - **Custom Addon**
 - **Database**
@@ -55,7 +52,8 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 - **AJAX**
 - **Database**
-- **Setting API**
+- **Setting API*
+- **Rest API***
 - **And Others**
 
 ---
