@@ -52,8 +52,8 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 - **AJAX**
 - **Database**
-- **Setting API*
-- **Rest API***
+- **Setting API**
+- **Rest API**
 - **And Others**
 
 ---
