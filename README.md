@@ -88,6 +88,7 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 - **[creativethemax on TemplateMonster](https://www.templatemonster.com/authors/creativethemax)**
 - **[exwpcoder on TemplateMonster](https://www.templatemonster.com/authors/exwpcoder)**
+- **[wowthemax on TemplateMonster](https://www.templatemonster.com/authors/wowthemax)**
 
 ---
 
