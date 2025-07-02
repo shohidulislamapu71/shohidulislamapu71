@@ -100,7 +100,7 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 ## 🎓 Mentor in Instructory - WordPress Theme Development (Advanced)
 
-- **[Instructory Profile](https://www.instructory.net/users/Sio_kha)**
+- **[Instructory Profile](https://instructory.net/users/Sk-han)**
 
 ---
 
