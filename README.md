@@ -3,7 +3,7 @@
   <strong>Custom WordPress Theme & Plugin Developer | UI/UX Enthusiast</strong> 🌐
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://profiles.wordpress.org/shohidulislamapu/">
     <img src="https://img.shields.io/badge/WordPress.org-Profile-blue?logo=wordpress" alt="WordPress.org Profile">
   </a>
