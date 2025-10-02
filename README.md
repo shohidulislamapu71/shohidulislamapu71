@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-shohidulislamapu71-black?logo=github" alt="GitHub">
   </a>
   <a href="mailto:wpdvapu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-wpdvapu@gmail.com-red?logo=gmail" alt="Email">
   </a>
 </p>
 
