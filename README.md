@@ -56,5 +56,3 @@
 - WordPress: https://profiles.wordpress.org/shohidulislamapu/
 
 ---
-
-> **Note:** এই README টেমপ্লেট চাইলে আমি বাংলায় সম্পূর্ণ ফ্লো করে দেবো, অথবা আরো বেশি ভিজ্যুয়াল (banner image, project screenshots, demo GIFs) যোগ করে একটি polished version তৈরি করে দিতে পারি।
