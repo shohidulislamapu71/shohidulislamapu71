@@ -7,13 +7,15 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 ---
 
-## 💻 FRONT END WEB SKILL:
+## 💻 WordPress Core Developer Profile:
 
-- **Html & Html5**
-- **Css & Css3**
-- **Javascript & Jquery**
-- **Bootstrap5**
-- **PSD, XD, Figma to Html Responsive Design**
+- **([WordPress.Org Profile](https://profiles.wordpress.org/shohidulislamapu/))**
+
+---
+
+## 💻 WordPress Org Plugin Approve Link :
+
+- **([Math Captcha for Contact Form 7](https://wordpress.org/plugins/math-captcha-for-contact-form-7/))**
 
 ---
 
@@ -76,31 +78,21 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 ---
 
+## 💻 FRONT END WEB SKILL:
+
+- **Html & Html5**
+- **Css & Css3**
+- **Javascript & Jquery**
+- **Bootstrap5**
+- **PSD, XD, Figma to Html Responsive Design**
+
+---
+
 ## 🧩 Others Skills:
 
 - **Basic Laravel with Base Portfolio Project**
 - **Basic Android Apps Development (Photo Editor & Database Apps)**
 - **MERN Stack (Just Learning Basics)**
-
----
-
-## 📚 TM AUTHOR:
-
-- **[creativethemax on TemplateMonster](https://www.templatemonster.com/authors/creativethemax)**
-- **[exwpcoder on TemplateMonster](https://www.templatemonster.com/authors/exwpcoder)**
-- **[wowthemax on TemplateMonster](https://www.templatemonster.com/authors/wowthemax)**
-
----
-
-## 🎉 Fiverr Level 1 Seller
-
-- **[Shohidul Islam Apu on Fiverr](https://www.fiverr.com/users/shohidulislamap)**
-
----
-
-## 🎓 Mentor in Instructory - WordPress Theme Development (Advanced)
-
-- **[Instructory Profile](https://instructory.net/users/Sk-han)**
 
 ---
 
@@ -132,9 +124,6 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 ## 🌍 FREELANCING:
 
-- **TemplateMonster**
-- **Freelancer.com**
-- **Fiverr**
 - **Local**
 
 ---
@@ -142,7 +131,6 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 ## 🧑‍💼 JOB EXPERIENCE:
 
 - **Remote Job in HTMLHomes**
-- **Mentor in Instructory.net**
 - **Official Job at bdcalling.com**
 - **Official Job at lrbinventivei.com**
 
