@@ -7,15 +7,15 @@ I am **Shohidul Islam Apu**, a passionate developer and educator with a strong b
 
 ---
 
-## 💻 WordPress Core Developer Profile:
+## 💻 WordPress.Org Core Developer Profile:
 
-- **([WordPress.Org Profile](https://profiles.wordpress.org/shohidulislamapu/))**
+- **[WordPress.Org Profile](https://profiles.wordpress.org/shohidulislamapu/)**
 
 ---
 
-## 💻 WordPress Org Plugin Approve Link :
+## 💻 WordPress.Org Plugin Approve Link :
 
-- **([Math Captcha for Contact Form 7](https://wordpress.org/plugins/math-captcha-for-contact-form-7/))**
+- **[Math Captcha for Contact Form 7](https://wordpress.org/plugins/math-captcha-for-contact-form-7/)**
 
 ---
 
