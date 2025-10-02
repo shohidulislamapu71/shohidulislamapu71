@@ -1,58 +1,78 @@
-<!--- Hero / Banner -->
-<h1 align="center">Hi 👋, I'm Shohidul Islam Apu</h1>
-<p align="center">
-  <em>Custom WordPress Theme & Plugin Developer • UI/UX Enthusiast • Instructor</em>
-</p>
+# 👨‍💻 Shohidul Islam Apu
+**Custom WordPress Theme & Plugin Developer | UI/UX Enthusiast** 🌐  
 
-<p align="center">
-  <a href="https://profiles.wordpress.org/shohidulislamapu/"><img alt="WordPress Profile" src="https://img.shields.io/badge/WordPress-Profile-21759b?logo=wordpress&logoColor=white"></a>
-  <a href="https://github.com/shohidulislamapu71"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@shohidulislamapu71-181717?logo=github&logoColor=white"></a>
-  <a href="mailto:wpdvapu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wpdvapu@gmail.com-D14836?logo=gmail&logoColor=white"></a>
-</p>
+[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-Profile-blue?logo=wordpress)](https://profiles.wordpress.org/shohidulislamapu/)  
+[![GitHub](https://img.shields.io/badge/GitHub-shohidulislamapu71-black?logo=github)](https://github.com/shohidulislamapu71)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:wpdvapu@gmail.com)  
 
 ---
 
-## 🧰 Tech & Tools
-**Languages:** PHP, JavaScript, MySQL, HTML, CSS  
-**WordPress:** Theme Development, Plugin Development, Elementor, WooCommerce, ACF, TGMPA  
-**Frontend:** Bootstrap5, jQuery, Responsive UI, PSD/XD/Figma → HTML/WP  
-**Tools:** VSCode, Photoshop, Illustrator, Figma, XD
+## 👋 About Me
+Hi, I’m **Shohidul Islam Apu**, a passionate **WordPress developer** with 5+ years of experience creating **custom themes, plugins, and scalable solutions**.  
+I love **teaching, open-source contributions, and UI/UX design**. My focus is building **clean, optimized, and user-friendly websites**.
 
 ---
 
-## 🔧 What I do
-- Custom WordPress themes from PSD/XD/Figma  
-- Advanced plugin development (AJAX, REST API, Settings API)  
-- WooCommerce customizations & checkout flows  
-- Elementor widgets & custom addons  
-- UI/UX design for websites and dashboards
+## 🚀 What I Do
+
+### 🔹 WordPress Development
+- Custom **Themes & Plugins** from scratch  
+- **PSD/XD/Figma → WordPress**  
+- Elementor & WPBakery Customization  
+- WooCommerce Integration & Custom Features  
+
+### 🔹 Theme Development
+- Custom Post Types & Taxonomies  
+- Advanced Queries & AJAX  
+- TGMPA Activation, Redux & Kirki Options  
+- Elementor Widgets & Addons  
+- One Click Demo Import, MailChimp Integration, ACF & Custom Widgets  
+
+### 🔹 Plugin Development
+- WordPress **Dashboard Customization**  
+- REST API & AJAX-based Features  
+- Setting API & Database Handling  
+- API Integration (Maps, Payments, etc.)  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** PHP (OOP), MySQL, JavaScript  
+**Frontend:** HTML5, CSS3, Bootstrap5, jQuery  
+**CMS:** WordPress (Core, Themes, Plugins)  
+**UI/UX Tools:** Photoshop, Illustrator, XD, Figma  
+**Others:** Basic Laravel, MERN (learning), Android Apps (basic)  
 
 ---
 
 ## 📂 Featured Projects
-- **Math Captcha for Contact Form 7** — https://wordpress.org/plugins/math-captcha-for-contact-form-7/  
-- Portfolio & other projects — https://github.com/shohidulislamapu71
+
+- 🔌 [Math Captcha for Contact Form 7](https://wordpress.org/plugins/math-captcha-for-contact-form-7/) – Approved WP.org Plugin  
+- 🗺️ WordPress Plugin: Google Maps Freehand Drawing  
+- 📊 Custom WordPress Dashboard Plugin  
+- 🎨 Portfolio Website in Laravel  
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohidulislamapu71&show_icons=true&theme=radical" alt="Shohidul's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohidulislamapu71&layout=compact&theme=radical" alt="Top languages" />
-</p>
+## 🎓 Education
+**B.A (Hons.)** – Govt. Shaheed Suhrawardy College  
 
 ---
 
-## 🧩 Extras I can add (optional)
-- Animated banner image (SVG/PNG) for top of README  
-- Project cards with screenshots & demo links  
-- CTA buttons (Hire me / Freelance / Contact)  
-- GitHub Action to auto-update 'latest blog' or 'now playing' widgets
+## 💼 Experience
+- 🌍 Remote Developer – HTMLHomes  
+- 💻 WordPress Developer – bdcalling.com  
+- 💼 WordPress Developer – lrbinventivei.com  
+- 🧑‍💻 Freelancing (Local Clients)  
 
 ---
 
-## 📫 Contact
-- Email: wpdvapu@gmail.com  
-- WordPress: https://profiles.wordpress.org/shohidulislamapu/
+## 🌍 Connect With Me
+📧 **Email:** [wpdvapu@gmail.com](mailto:wpdvapu@gmail.com)  
+🌐 **WordPress Profile:** [profiles.wordpress.org/shohidulislamapu](https://profiles.wordpress.org/shohidulislamapu/)  
+💻 **GitHub:** [github.com/shohidulislamapu71](https://github.com/shohidulislamapu71)  
 
 ---
+
+✨ *Building scalable WordPress solutions with a touch of creativity.*
