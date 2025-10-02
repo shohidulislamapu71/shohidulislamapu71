@@ -1,145 +1,60 @@
-# Shohidul Islam Apu (Custom WordPress Theme and Plugin Developer) 🌐
+<!--- Hero / Banner -->
+<h1 align="center">Hi 👋, I'm Shohidul Islam Apu</h1>
+<p align="center">
+  <em>Custom WordPress Theme & Plugin Developer • UI/UX Enthusiast • Instructor</em>
+</p>
+
+<p align="center">
+  <a href="https://profiles.wordpress.org/shohidulislamapu/"><img alt="WordPress Profile" src="https://img.shields.io/badge/WordPress-Profile-21759b?logo=wordpress&logoColor=white"></a>
+  <a href="https://github.com/shohidulislamapu71"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@shohidulislamapu71-181717?logo=github&logoColor=white"></a>
+  <a href="mailto:wpdvapu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-wpdvapu@gmail.com-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 👋 About Me
-I am **Shohidul Islam Apu**, a passionate developer and educator with a strong background in software development and a commitment to sharing knowledge. I have a diverse set of skills, ranging from web development to data analysis, and I am always eager to learn and explore new technologies.
+## 🧰 Tech & Tools
+**Languages:** PHP, JavaScript, MySQL, HTML, CSS  
+**WordPress:** Theme Development, Plugin Development, Elementor, WooCommerce, ACF, TGMPA  
+**Frontend:** Bootstrap5, jQuery, Responsive UI, PSD/XD/Figma → HTML/WP  
+**Tools:** VSCode, Photoshop, Illustrator, Figma, XD
 
 ---
 
-## 💻 WordPress.Org Core Developer Profile:
-
-- **[WordPress.Org Profile](https://profiles.wordpress.org/shohidulislamapu/)**
-
----
-
-## 💻 WordPress.Org Plugin Approve Link :
-
-- **[Math Captcha for Contact Form 7](https://wordpress.org/plugins/math-captcha-for-contact-form-7/)**
+## 🔧 What I do
+- Custom WordPress themes from PSD/XD/Figma  
+- Advanced plugin development (AJAX, REST API, Settings API)  
+- WooCommerce customizations & checkout flows  
+- Elementor widgets & custom addons  
+- UI/UX design for websites and dashboards
 
 ---
 
-## 🌐 WORDPRESS SKILL:
-
-- **PSD, XD, Figma to WP**
-- **Html to WP**
-- **WP Theme Development**
-- **Elementor Expert**
-- **Any Theme Customize WPBakery Expert**
-- **Plugin Development & Plugin Custom Update**
+## 📂 Featured Projects
+- **Math Captcha for Contact Form 7** — https://wordpress.org/plugins/math-captcha-for-contact-form-7/  
+- Portfolio & other projects — https://github.com/shohidulislamapu71
 
 ---
 
-## 🎨 THEME DEVELOPMENT SKILL:
-
-- **Custom Post Type**
-- **Custom Query**
-- **TGMPA Activation**
-- **Elementor Widget Development**
-- **Custom Post Type**
-- **Custom Addon**
-- **Database**
-- **AJAX**
-- **Kirki & Redux Theme Option**
-- **Contact Form 7**
-- **One Click Demo Import**
-- **MailChimp**
-- **Custom Widget**
-- **WooCommerce**
-- **ACF Meta Box**
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohidulislamapu71&show_icons=true&theme=radical" alt="Shohidul's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohidulislamapu71&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
-## ⚙️ Plugin DEVELOPMENT Skills:
-
-- **AJAX**
-- **Database**
-- **Setting API**
-- **Rest API**
-- **And Others**
+## 🧩 Extras I can add (optional)
+- Animated banner image (SVG/PNG) for top of README  
+- Project cards with screenshots & demo links  
+- CTA buttons (Hire me / Freelance / Contact)  
+- GitHub Action to auto-update 'latest blog' or 'now playing' widgets
 
 ---
 
-## 🛠️ Plugin DEVELOPMENT Project:
-
-- **Custom Dashboard in WordPress**
-- **Any Theme Add Custom Feature**
-- **Map API Using Create WordPress Plugin**
-- **And More**
+## 📫 Contact
+- Email: wpdvapu@gmail.com  
+- WordPress: https://profiles.wordpress.org/shohidulislamapu/
 
 ---
 
-## 🧑‍💻 PROGRAMMING:
-
-- **PHP**
-- **OOP PHP**
-- **MySQL**
-- **JavaScript**
-
----
-
-## 💻 FRONT END WEB SKILL:
-
-- **Html & Html5**
-- **Css & Css3**
-- **Javascript & Jquery**
-- **Bootstrap5**
-- **PSD, XD, Figma to Html Responsive Design**
-
----
-
-## 🧩 Others Skills:
-
-- **Basic Laravel with Base Portfolio Project**
-- **Basic Android Apps Development (Photo Editor & Database Apps)**
-- **MERN Stack (Just Learning Basics)**
-
----
-
-## 🎓 EDUCATION:
-
-- **B.A (Hons.)**  
-  Govt. Shaheed Suhrawardy College  
-  Honours
-
----
-
-## 🛠️ SKILLS:
-
-- **Graphic Design (Mid Level)**
-- **Web Front-End Expert**
-- **WordPress Expert**
-- **Web UI/UX Design (Mid Level)**
-
----
-
-## 🛠️ TOOLS EXPERT:
-
-- **Photoshop CC**
-- **Illustrator CC**
-- **XD and Figma**
-- **Visual Studio Code**
-
----
-
-## 🌍 FREELANCING:
-
-- **Local**
-
----
-
-## 🧑‍💼 JOB EXPERIENCE:
-
-- **Remote Job in HTMLHomes**
-- **Official Job at bdcalling.com**
-- **Official Job at lrbinventivei.com**
-
----
-
-For a full list of my projects, please visit my [GitHub profile](https://www.github.com/shohidulislamapu71).
-
----
-
-## 📬 Contact
-
-- **Email:** [wpdvapu@gmail.com](mailto:wpdvapu@gmail.com)
+> **Note:** এই README টেমপ্লেট চাইলে আমি বাংলায় সম্পূর্ণ ফ্লো করে দেবো, অথবা আরো বেশি ভিজ্যুয়াল (banner image, project screenshots, demo GIFs) যোগ করে একটি polished version তৈরি করে দিতে পারি।
