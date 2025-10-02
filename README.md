@@ -1,15 +1,26 @@
-# 👨‍💻 Shohidul Islam Apu
-**Custom WordPress Theme & Plugin Developer | UI/UX Enthusiast** 🌐  
+<p align="center">
+  <h1>👨‍💻 Shohidul Islam Apu</h1>
+  <strong>Custom WordPress Theme & Plugin Developer | UI/UX Enthusiast</strong> 🌐
+</p>
 
-[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-Profile-blue?logo=wordpress)](https://profiles.wordpress.org/shohidulislamapu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-shohidulislamapu71-black?logo=github)](https://github.com/shohidulislamapu71)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:wpdvapu@gmail.com)  
+<p align="center">
+  <a href="https://profiles.wordpress.org/shohidulislamapu/">
+    <img src="https://img.shields.io/badge/WordPress.org-Profile-blue?logo=wordpress" alt="WordPress.org Profile">
+  </a>
+  <a href="https://github.com/shohidulislamapu71">
+    <img src="https://img.shields.io/badge/GitHub-shohidulislamapu71-black?logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:wpdvapu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 👋 About Me
-Hi, I’m **Shohidul Islam Apu**, a passionate **WordPress developer** with 5+ years of experience creating **custom themes, plugins, and scalable solutions**.  
-I love **teaching, open-source contributions, and UI/UX design**. My focus is building **clean, optimized, and user-friendly websites**.
+<p align="center">
+  Hi, I’m <strong>Shohidul Islam Apu</strong>, a passionate <strong>WordPress developer</strong> with 5+ years of experience creating <strong>custom themes, plugins, and scalable solutions</strong>.<br>
+  I love <strong>teaching, open-source contributions, and UI/UX design</strong>. My focus is building <strong>clean, optimized, and user-friendly websites</strong>.
+</p>
 
 ---
 
