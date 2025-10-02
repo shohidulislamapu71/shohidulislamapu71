@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👨‍💻 Shohidul Islam Apu</h1>
+  <h1>Shohidul Islam Apu</h1>
   <strong>Custom WordPress Theme & Plugin Developer | UI/UX Enthusiast</strong> 🌐
 </p>
 
@@ -18,7 +18,7 @@
 ---
 
 <p align="left">
-  Hi, I’m <strong>Shohidul Islam Apu</strong>, a passionate <strong>WordPress developer</strong> with 5+ years of experience creating <strong>custom themes, plugins, and scalable solutions</strong>.<br>
+  Hi, I’m <strong>Shohidul Islam Apu</strong>, a passionate <strong>WordPress developer</strong> with 5+ years of experience creating <strong>custom themes, plugins, and scalable solutions</strong>.
   I love <strong>teaching, open-source contributions, and UI/UX design</strong>. My focus is building <strong>clean, optimized, and user-friendly websites</strong>.
 </p>
 
